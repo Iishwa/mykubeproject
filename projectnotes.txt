@@ -1,0 +1,10 @@
+create IAM User
+give administrator access
+set proper path for all the software downloaded.
+>eksctl create cluster --name mydevopsproject
+
+AmazonEC2FullAccess
+AWSCloudFormationFullAccess
+EksAllAccess
+
+https://github.com/vimallinuxworld13/devops_project_based_learning_2025_batch1
